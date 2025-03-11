@@ -19,7 +19,7 @@ This project implements a **Convolutional Neural Network (CNN)** for **signature
 ## 🔧 **Requirements**  
 - Python  
 - Jupyter Notebook  
-- TensorFlow/Keras  
+- Pytorch  
 - OpenCV (for image processing)  
 - Matplotlib & Seaborn (for visualization)  
 
